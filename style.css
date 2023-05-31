@@ -23,3 +23,17 @@ header h1{
     margin-left: 61px;
     margin-top: 0px;
 }
+
+main div{
+    width: 20%;
+    height: auto;
+    display: block;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+main img{
+    width: 100%;
+    height: auto;
+}
