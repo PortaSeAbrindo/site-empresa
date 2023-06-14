@@ -69,6 +69,7 @@ footer{
     display: block;
     float: left;
     background-color: white;
+    margin-top: 100px;
 }
 
 footer div h3{
