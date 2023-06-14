@@ -74,14 +74,27 @@ footer{
 
 footer div h3{
     font-size: 50px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     text-align: center;
 }
 
 footer div img{
-    width: 100%;
-    height: auto;
+    height: 500px;
+    text-align: center;
     display: block;
     float: left;
+    background-color: white;
+}
+
+footer div a{
+    font-size: 70px;
+    display: block;
+    float: left;
+    text-align: center;
+    color: yellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    width: 100%;
 }
