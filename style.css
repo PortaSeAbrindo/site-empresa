@@ -5,7 +5,7 @@
     background-color: black;
 }
 
-header {
+header{
     display: block;
     background-image: url(https://i.pinimg.com/originals/33/cd/c8/33cdc8f4eb5d3e3bf6fc79109e1048a1.jpg);
     background-size: 1300px;
@@ -53,4 +53,34 @@ main article{
 main img{
     width: 100%;
     height: auto;
+}
+
+footer div{
+    width: 30%;
+    height: auto;
+    display: block;
+    float: left;
+    margin-left: 30px;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+    display: block;
+    float: left;
+    background-color: white;
+}
+
+footer div h3{
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer div img{
+    width: 100%;
+    height: auto;
+    display: block;
+    float: left;
 }
